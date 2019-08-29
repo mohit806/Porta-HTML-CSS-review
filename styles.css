@@ -87,8 +87,9 @@ footer{
 }
 
 /* --------------------------------------------------------- */
-.bold{
+.boldThis{
     font-weight: 900;
+    color: purple;
 }
 
 .updateOrderBtn{
